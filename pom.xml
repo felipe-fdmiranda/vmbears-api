@@ -14,7 +14,7 @@
 	<name>vmbears-api</name>
 	<description>Leitor de arquivos XML</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 
